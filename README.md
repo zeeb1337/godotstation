@@ -1,5 +1,6 @@
 # Godot Station
 An SS13 clone developed in the Godot engine.
+https://godotengine.org/license/
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
